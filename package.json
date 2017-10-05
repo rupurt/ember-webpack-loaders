@@ -10,7 +10,7 @@
   "author": "Tulio Ornelas <ornelas.tulio@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "components-ember": "https://github.com/components/ember/tarball/1.13.13",
+    "components-ember": "https://github.com/rupurt/ember_components/tarball/ak-1.13.13-without-sk-deprecations",
     "ember-cli-htmlbars": "^1.0.2",
     "loader-utils": "^0.2.12",
     "recursive-readdir-sync": "^1.0.6"
